@@ -21,12 +21,12 @@ body {
   overflow: hidden;
   margin: 0;
   background-color: #000;
+  margin-inline: auto ;
 }
 
 .container {
   display: flex;
-  width: 90vw;
-  margin-left: 70px;
+  width: auto ;
 }
 
 .panel {
